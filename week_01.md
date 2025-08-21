@@ -75,8 +75,8 @@ A typical week structure might look like:
 | sam heckle (they/she)|  |
 | ----------- | ----------- |
 | software engineer to creative technologist pipeline  | |
-| things you can ask me about: coding, software engineering, physical computing, sewing, portfolio review, resume review, grad school, games, cats, keyboards, baking, nyc/seattle/san francisco, food | ![works cited](https://lh3.google.com/u/0/d/1EHFgwOKF5bjgfcWzB8lz5UmkdsHUDl8i=w1390-h761-iv1) |
-| please ask me about these things in [office hours](https://calendly.com/samanthaheckle/30min) | ![phone ew](https://lh3.google.com/u/0/d/14eyrDa8s9XemPSfhB49ruI34J3ryJ2pN=w1390-h761-iv1) |
+| things you can ask me about: coding, software engineering, physical computing, sewing, portfolio review, resume review, grad school, games, cats, keyboards, baking, nyc/seattle/san francisco, food | ![works cited](https://drive.google.com/uc?id=1EHFgwOKF5bjgfcWzB8lz5UmkdsHUDl8i)|
+| please ask me about these things in [office hours](https://calendly.com/samanthaheckle/30min) | ![phone ew](https://drive.google.com/uc?id=14eyrDa8s9XemPSfhB49ruI34J3ryJ2pN) |
 
 ### you
 
@@ -96,7 +96,7 @@ Make an account: <https://editor.p5js.org/>
 
 | Click the Gear Icon in the Upper left.  |  |
 | ----------- | ----------- |
-| These are my preferred settings. | ![p5 settings](https://lh3.google.com/u/0/d/1kILnkhnxRwhEpiYZXsgouJSwmxUkv_Ia=w1390-h761-iv2) |
+| These are my preferred settings. | ![p5 settings](https://drive.google.com/uc?id=1kILnkhnxRwhEpiYZXsgouJSwmxUkv_Ia)|
 
 ## Assignment
 
