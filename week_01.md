@@ -1,6 +1,6 @@
 # Week 01: 8/28/25
 
-![intro.gif](https://lh3.google.com/u/0/d/1-Kr8EdlK7RqXPQQIKZURd6iiEgvNXQne=w1390-h761-iv2)
+![intro.gif](https://drive.google.com/uc?id=1-Kr8EdlK7RqXPQQIKZURd6iiEgvNXQne)
 *Source: [Casey Reas, 2010](https://reas.com/p18_s2/)*
 
 ---
