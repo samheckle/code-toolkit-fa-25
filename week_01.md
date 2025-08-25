@@ -155,6 +155,7 @@ a dictionary for syntax of a particular coding language
 
 </details>
 
+<details>
 <summary> comment </summary>
 
 a way in code to write notes
@@ -166,16 +167,24 @@ a way in code to write notes
     // we write comments in our code to explain what is going on and to organize ourselves
 ```
 
-function
-    : an instruction or command, may or may not have ***parameters***, also known as ***methods***
+<details open>
+<summary>  function </summary>
+
+an instruction or command, may or may not have ***parameters***, also known as ***methods***
+
+</details>
 
 ``` js
     // the syntax of a function is the name followed by parenthesis 
     functionName()
 ```
 
-parameter
-    : value that os passed into the function, also known as ***argument***
+<details open>
+<summary>  parameter </summary>
+
+value that is passed into the function, also known as ***argument***
+
+</details>
 
 ``` js
     // parameters go inside the parenthesis
@@ -193,24 +202,29 @@ some p5 examples of functions with and without parameters
     background(255)
 ```
 
-
 #### p5.js Glossary
 
-sketch
-    : the name of the things you are making in p5.js web editor
+<details>
+<summary>  sketch </summary>
 
-`setup()`
-    : happens before the animation loop and *executes one time*. once it completes, it moves to the next line in the code. 
+the name of the things you are making in p5.js web editor
+
+</details>
+
+`setup()`: happens before the animation loop and *executes one time*. once it completes, it moves to the next line in the code.
 
 ![setup gif](/images/week_01/setup.gif)
 
-`draw()`
-    : is the animation loop, executes with framerate
+`draw()`: is the animation loop, executes with framerate
 
 ![draw gif](/images/week_01/draw_loop.gif)
 
-canvas
-    : the area on the screen where the code is executed, similar to an artboard. uses the cartesian coordinate system (x, y).
+<details open>
+<summary>  canvas </summary>
+
+the area on the screen where the code is executed, similar to an artboard. uses the cartesian coordinate system (x, y).
+
+</details>
 
 ![coordinates](/images/week_01/coordinates.png)
 
