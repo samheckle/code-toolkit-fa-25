@@ -1,6 +1,6 @@
 # Week 01: 8/28/25
 
-![intro.gif](https://drive.google.com/uc?id=1-Kr8EdlK7RqXPQQIKZURd6iiEgvNXQne)
+![intro.gif](/images/week_01/intro.gif)
 *Source: [Casey Reas, 2010](https://reas.com/p18_s2/)*
 
 ---
@@ -75,8 +75,8 @@ A typical week structure might look like:
 | sam heckle (they/she)|  |
 | ----------- | ----------- |
 | software engineer to creative technologist pipeline  | |
-| things you can ask me about: coding, software engineering, physical computing, sewing, portfolio review, resume review, grad school, games, cats, keyboards, baking, nyc/seattle/san francisco, food | ![works cited](https://drive.google.com/uc?id=1EHFgwOKF5bjgfcWzB8lz5UmkdsHUDl8i)|
-| please ask me about these things in [office hours](https://calendly.com/samanthaheckle/30min) | ![phone ew](https://drive.google.com/uc?id=14eyrDa8s9XemPSfhB49ruI34J3ryJ2pN) |
+| things you can ask me about: coding, software engineering, physical computing, sewing, portfolio review, resume review, grad school, games, cats, keyboards, baking, nyc/seattle/san francisco, food | ![works cited](/images/week_01/works_cited.png)|
+| please ask me about these things in [office hours](https://calendly.com/samanthaheckle/30min) | ![phone ew](/images/week_01/phone.png) |
 
 ### you
 
@@ -88,22 +88,130 @@ A typical week structure might look like:
 
 ## Introduction to Code
 
-### Tutorial: Drawing with p5.js
+### Tutorial: Learning about p5 Editor
 
 Make an account: <https://editor.p5js.org/>
 
-#### Settings
+#### Looking at the p5 Editor
 
 | Click the Gear Icon in the Upper left.  |  |
 | ----------- | ----------- |
-| These are my preferred settings. | ![p5 settings](https://drive.google.com/uc?id=1kILnkhnxRwhEpiYZXsgouJSwmxUkv_Ia)|
+| These are my preferred settings. | ![p5 settings](/images/week_01/settings.png)|
+
+### Writing and Running Code
+
+![p5.editor](/images/week_01/p5_editor.png)
+
+### General Flow
+
+| How to submit homework  |  |
+| ----------- | ----------- |
+| 1. Rename sketch to enable saving | ![name](/images/week_01/1.png)|
+| 2. Save your sketch (you can also press ⌘+S or Ctrl+S) | ![save](/images/week_01/2.png)|
+| 3. Finish your assignment| |
+| 4. Tidy your code | ![save](/images/week_01/tidy.png)|
+| 5. Retrieve the URL and submit. | ![save](/images/week_01/url.png)|
+
+### Definitions: Coding Glossary vs. p5 Glossary
+
+| coding glossary  | p5 glossary |
+| ----------- | ----------- |
+| terms that can be used *universally* when talking about code | terms that are specific to p5 and our class |
+
+#### Coding Glossary
+
+algorithm
+    : series of steps to execute to solve a problem
+
+syntax
+    : grammars or punctuation of the language you code in
+
+javascript
+    : a programming language [^1]
+
+p5.js
+    : a javascript library[^2]
+
+documentation / reference
+    : a dictionary for syntax of a particular coding language
+
+comment
+    : a way in code to write notes
+
+``` js
+    // this is a comment
+    // we write comments in our code to explain what is going on and to organize ourselves
+```
+
+function
+    : an instruction or command, may or may not have ***parameters***, also known as ***methods***
+
+``` js
+    // the syntax of a function is the name followed by parenthesis 
+    functionName()
+```
+
+parameter
+    : value that os passed into the function, also known as ***argument***
+
+``` js
+    // parameters go inside the parenthesis
+    functionName(parameterValue)
+```
+
+some p5 examples of functions with and without parameters
+
+``` js
+    // without parameters
+    beginShape()
+
+    // with parameters
+    fill(255)
+    background(255)
+```
+
+[^1]: the technical definition is a lightweight interpreted language with first-class functions
+[^2]: it is **not** a programming language, but a way of interpreting plain javascript
+
+#### p5.js Glossary
+
+sketch
+    : the name of the things you are making in p5.js web editor
+
+`setup()`
+    : happens before the animation loop and *executes one time*. once it completes, it moves to the next line in the code. 
+
+![setup gif](/images/week_01/setup.gif)
+
+`draw()`
+    : is the animation loop, executes with framerate
+
+![draw gif](/images/week_01/draw_loop.gif)
+
+canvas
+    : the area on the screen where the code is executed, similar to an artboard. uses the cartesian coordinate system (x, y).
+
+![coordinates](/images/week_01/coordinates.png)
+
+Important to note here is the blue line represents the x-axis, increasing from left to right. The red line represents the y-axis, increasing from top to bottom.
+
+`(0, 0)` starts from the top left corner and increases until the `width` and `height` have been reached. The width and height are determined by the parameters passed in to the `createCanvas()` function located in setup.
+
+---
+
+## Demos
+
+---
 
 ## Assignment
 
 Due Class 2:
 
-* Do:
-  * Finish in-class practice
-  * Exercise 1
-* Read:
-  * [The Critical Engineering Manifesto](https://criticalengineering.org/)
+Do:
+
+* [ ] Finish in-class practice
+* [ ] Exercise 1
+
+Read:
+
+* [ ] [The Critical Engineering Manifesto](https://criticalengineering.org/)
