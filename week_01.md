@@ -232,10 +232,46 @@ Important to note here is the blue line represents the x-axis, increasing from l
 
 `(0, 0)` starts from the top left corner and increases until the `width` and `height` have been reached. The width and height are determined by the parameters passed in to the `createCanvas()` function located in setup.
 
+#### p5 Functions covered in class
+
+[rect()](https://p5js.org/reference/p5/rect/)
+```
+// remember any parameter wrapped in [] is optional
+// x: x position, from top left corner (unless otherwise specified)
+// y: y position, from top left corner (unless otherwise specified)
+// w: width of rectangle, in pixels
+// h: height of rectangle, in pixels
+// optional rounding of edges using radius in px from top left, top right, bottom right, bottom left
+rect(x, y, w, [h], [tl], [tr], [br], [bl])
+```
+[fill()](https://p5js.org/reference/p5/fill/)
+```js
+// r, g, b values with optional alpha
+// from 0 - 255
+fill(v1, v2, v3, [alpha])
+// color names, wrapped in quotations
+// fun tool to see all the color names: https://tools-olive.vercel.app/t/css-named-colors
+fill('color name')
+// greyscale, with optional alpha
+// from 0 - 255
+fill(gray, [alpha])
+```
+We also covered `circle()`, `ellipse()`, `line()`, `stroke()`, `noStroke()`
+
+Options for your assignment next week:
+* Look at any additional shapes in [2D primatives](https://p5js.org/reference/#2D%20Primitives), such as arc, quad, triangle
+  
+Challenge:
+* Experiment with [curves](https://p5js.org/reference/#Curves) and [vertices](https://p5js.org/reference/#Vertex)
+
 ---
 
 ## Demos
+* [in class demo](https://editor.p5js.org/samheckle/sketches/ueqmpQPqQ)
 
+## Useful Misc Links
+* [curve visualization](https://editor.p5js.org/samheckle/full/VIr36n9gq)
+* ![catmull-rom](https://kagi.com/proxy/catmull-rom-splines-l.jpg)
 ---
 
 ## Assignment
