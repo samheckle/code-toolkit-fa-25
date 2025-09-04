@@ -182,9 +182,9 @@ Due Class 3:
 
 Do:
 
-* [ ] Finish in-class practice #2
+* [ ] Finish in-class practice #2  
 ![example](images/week_02/in-class.gif)  
-This is what your submitted sketch should look like.
+This is what your submitted sketch should look like.  
 * [ ] Start thinking about exercise #2 (due Class 4)  
 
 Read & Respond:
