@@ -65,6 +65,12 @@ Assignment happens when we give that named variable a value using the `=`.
 let teacher = "sam"
 ```
 
+#### Variable Types
+JavaScript isn't specific about different variable types, but we do know when p5 accepts variables as parameters in functions it will be either a "Number" or "String". 
+
+* `Number` is like 1,2,3,4,5
+* `String` is a word, but wrapped in `""`
+
 #### Variable Names
 When creating variable names, we can pretty much use whatever we want, but being specific helps us and readers of our code to understand what is happening. 
 
@@ -162,12 +168,23 @@ Will give us:
 ![push](images/week_02/push.png)
 
 ## Demos
+* [basic movement and variables](https://editor.p5js.org/samheckle/sketches/DGgJtcBGW)
+* [random](https://editor.p5js.org/samheckle/sketches/hXk-Oksl0P)
+* [push and pop](https://editor.p5js.org/samheckle/sketches/c9mWUA4NO)
+
+## Misc Resources
+* [color palette generator](https://coolors.co/)
+* [`sin()`](https://p5js.org/reference/p5/sin/)
+* [`frameRate`](https://p5js.org/reference/p5/frameRate/)
+
 ## Assignment
 Due Class 3:
 
 Do:
 
 * [ ] Finish in-class practice #2
+![example](images/week_02/in-class.gif)  
+This is what your submitted sketch should look like.
 * [ ] Start thinking about exercise #2 (due Class 4)  
 
 Read & Respond:
