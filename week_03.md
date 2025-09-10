@@ -312,6 +312,18 @@ We know that `mousePressed()` is a function because of `()`
 `mouseIsPressed` is a variable
 * this is a `boolean` that evaluates to `true` or `false` if the mouse is CURRENTLY being pressed (and held down)
 
+## Demos
+
+## Misc Resources
+* [MOMA Turning Points in Design](https://www.moma.org/calendar/exhibitions/5756)
+     * [New School Free Museum Admission](https://www.newschool.edu/student-leadership/discounts/#museum)
+* [Art Forum New York Gallery Guide](https://artguide.artforum.com/artguide/place/new-york?category=galleries)
+* [Art Rabbit Gallery Guide](https://www.artrabbit.com/all-listings/united-states/new-york/current-popular)
+* [Chelsea Gallery Map](http://chelseagallerymap.com/)
+* [cal.red](https://cal.red/)
+* [eieio Art Tech Games Triangle](https://eieio.games/blog/the-nyc-game-art-tech-triangle/)
+
+  
 ## Assignment
 
 Due Class 4:
