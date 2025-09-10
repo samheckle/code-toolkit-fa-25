@@ -1,12 +1,9 @@
 # Week 03: 9/10/25
 
-![intro.gif](https://cdn.feralfileassets.com/previews/9983bf66-380e-4af3-bee9-237c492f18a0/1615757415/)
-*Source: [Manolo Gamboa Naon, 2021](https://feralfile.com/explore/series/uneasy-dream-asj?viewMode=Grid)*
-
 ## Agenda
 
 1. Attendance 
-2. [Review](#Review)
+2. [Review](##Review)
 3. Reading Discussion
 4. Lecture: Conditionals & Events
 5. Tutorial: Transformations Continued, Conditionals
@@ -59,6 +56,8 @@ If it is easier to write about your assignment in google doc, figma, ppt that is
 Questions? 
 
 ### Exercise #1
+
+Questions about grades or feedback? Send an email.
 
 ### Check-In: Class Feedback
 
