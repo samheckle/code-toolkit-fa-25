@@ -313,6 +313,11 @@ We know that `mousePressed()` is a function because of `()`
 * this is a `boolean` that evaluates to `true` or `false` if the mouse is CURRENTLY being pressed (and held down)
 
 ## Demos
+* [Booleans and Circle Collisions](https://editor.p5js.org/samheckle/sketches/iOLYAyOmo)
+    * boolean variables can be checked with `== true`, the shorthand of the variable name, or `!= true`. Think about the flowchart you build every time you are constructing logic or want something to happen.
+    * the `dist()` function can only be used with circles to determine if the mouse is hovering over a circle.
+* [Rectangle Collisions](https://editor.p5js.org/samheckle/sketches/bgUR2kAcQ)
+    * rects detect mouse hovering using multiple `&&` statements. remember we cannot use `startingX < mouseX < maxX` because we can only do one conditional expression at a time.
 
 ## Misc Resources
 * [MOMA Turning Points in Design](https://www.moma.org/calendar/exhibitions/5756)
