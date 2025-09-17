@@ -1,12 +1,9 @@
 # Week 03: 9/10/25
 
-![intro.gif](https://cdn.feralfileassets.com/previews/9983bf66-380e-4af3-bee9-237c492f18a0/1615757415/)
-*Source: [Manolo Gamboa Naon, 2021](https://feralfile.com/explore/series/uneasy-dream-asj?viewMode=Grid)*
-
 ## Agenda
 
 1. Attendance 
-2. [Review](#Review)
+2. [Review](##Review)
 3. Reading Discussion
 4. Lecture: Conditionals & Events
 5. Tutorial: Transformations Continued, Conditionals
@@ -59,6 +56,8 @@ If it is easier to write about your assignment in google doc, figma, ppt that is
 Questions? 
 
 ### Exercise #1
+
+Questions about grades or feedback? Send an email.
 
 ### Check-In: Class Feedback
 
@@ -313,6 +312,23 @@ We know that `mousePressed()` is a function because of `()`
 `mouseIsPressed` is a variable
 * this is a `boolean` that evaluates to `true` or `false` if the mouse is CURRENTLY being pressed (and held down)
 
+## Demos
+* [Booleans and Circle Collisions](https://editor.p5js.org/samheckle/sketches/iOLYAyOmo)
+    * boolean variables can be checked with `== true`, the shorthand of the variable name, or `!= true`. Think about the flowchart you build every time you are constructing logic or want something to happen.
+    * the `dist()` function can only be used with circles to determine if the mouse is hovering over a circle.
+* [Rectangle Collisions](https://editor.p5js.org/samheckle/sketches/bgUR2kAcQ)
+    * rects detect mouse hovering using multiple `&&` statements. remember we cannot use `startingX < mouseX < maxX` because we can only do one conditional expression at a time.
+
+## Misc Resources
+* [MOMA Turning Points in Design](https://www.moma.org/calendar/exhibitions/5756)
+     * [New School Free Museum Admission](https://www.newschool.edu/student-leadership/discounts/#museum)
+* [Art Forum New York Gallery Guide](https://artguide.artforum.com/artguide/place/new-york?category=galleries)
+* [Art Rabbit Gallery Guide](https://www.artrabbit.com/all-listings/united-states/new-york/current-popular)
+* [Chelsea Gallery Map](http://chelseagallerymap.com/)
+* [cal.red](https://cal.red/)
+* [eieio Art Tech Games Triangle](https://eieio.games/blog/the-nyc-game-art-tech-triangle/)
+
+  
 ## Assignment
 
 Due Class 4:
