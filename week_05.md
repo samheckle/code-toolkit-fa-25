@@ -9,26 +9,6 @@
     * The columns should not have a fill until they are hovered. They can either have noFill() or a fill('white') until they are hovered over.
 4. Skip over column #7 (it should not fill the 7th column).
 
-### Identifying Patterns
-
-![pattern](images/week_04/rect_pattern.png)
-
-We can rewrite this as 
-
-```js
-let rectWidth = width/10
-rect(x + rectWidth * 0, 0, rectWidth, height)
-rect(x + rectWidth * 1, 0, rectWidth, height)
-rect(x + rectWidth * 2, 0, rectWidth, height)
-rect(x + rectWidth * 3, 0, rectWidth, height)
-rect(x + rectWidth * 4, 0, rectWidth, height)
-rect(x + rectWidth * 5, 0, rectWidth, height)
-rect(x + rectWidth * 6, 0, rectWidth, height)
-rect(x + rectWidth * 7, 0, rectWidth, height)
-rect(x + rectWidth * 8, 0, rectWidth, height)
-rect(x + rectWidth * 9, 0, rectWidth, height)
-```
-
 #### Coding Glossary: Loops
 
 <table>
