@@ -8,6 +8,26 @@
     * The columns should not have a fill until they are hovered. They can either have noFill() or a fill('white') until they are hovered over.
 3. Skip over column #7 (it should not fill the 7th column).
 
+### Identifying Patterns
+
+![pattern](images/week_04/rect_pattern.png)
+
+We can rewrite this as 
+
+```js
+let rectWidth = width/10
+rect(x + rectWidth * 0, 0, rectWidth, height)
+rect(x + rectWidth * 1, 0, rectWidth, height)
+rect(x + rectWidth * 2, 0, rectWidth, height)
+rect(x + rectWidth * 3, 0, rectWidth, height)
+rect(x + rectWidth * 4, 0, rectWidth, height)
+rect(x + rectWidth * 5, 0, rectWidth, height)
+rect(x + rectWidth * 6, 0, rectWidth, height)
+rect(x + rectWidth * 7, 0, rectWidth, height)
+rect(x + rectWidth * 8, 0, rectWidth, height)
+rect(x + rectWidth * 9, 0, rectWidth, height)
+```
+
 #### Coding Glossary: Loops
 
 <table>
@@ -79,3 +99,12 @@ for(let iterator = 0; iterator < 10; iterator +=1){
     // do something 10 times
 }
 ```
+
+## Demos
+
+* [building to a while loop](https://editor.p5js.org/samheckle/sketches/XSOy4t9R2)
+    * starting with hard coded numbers, moving to variables, moving to mathematical formula with variables, graduating to using `while()`
+
+## Review Videos
+* [4.1: While and For Loops](https://www.youtube.com/watch?v=cnRD9o6odjk)
+* [4.2: Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
