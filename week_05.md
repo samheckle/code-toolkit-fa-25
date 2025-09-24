@@ -104,6 +104,11 @@ for(let iterator = 0; iterator < 10; iterator +=1){
 
 * [building to a while loop](https://editor.p5js.org/samheckle/sketches/XSOy4t9R2)
     * starting with hard coded numbers, moving to variables, moving to mathematical formula with variables, graduating to using `while()`
+* [nested loops](https://editor.p5js.org/samheckle/sketches/imCjU66Mr)
+    * taking the entire previous sketch, realizing we are copying and pasting a lot, and making it all into a single nested loop.
+    * loops usually control 1 axis. [useful nested loop visualization](https://editor.p5js.org/Mustard-Roy/full/QHkGnGqtx) of how to make a grid.
+* [using loops and functions](https://editor.p5js.org/samheckle/sketches/JBH90H5BO)
+    * combining loops and functions to create patterns in our code. 
 
 ## Review Videos
 * [4.1: While and For Loops](https://www.youtube.com/watch?v=cnRD9o6odjk)
