@@ -11,6 +11,7 @@
 
 ## Reading Discussion
 
+Take notes in [this document](https://cryptpad.fr/pad/#/2/pad/edit/ELjYcqPdt2EUMd-Bnxm5jB8O/)
 * Can technology be biased? Or is it designed that way?
 * Define "phantom objectivity" in your own words. How does "phantom objectivity" apply to generative models?
 
