@@ -4,7 +4,8 @@
 ### Review
 
 1. Create a new sketch titled "In-class 4b"
-2. Create 20 columns that turn red only when you hover over the column using if-statements.
+2. Create 20 columns that turn red only when you hover over the column using 
+if-statements.
     * The columns should not have a fill until they are hovered. They can either have noFill() or a fill('white') until they are hovered over.
 3. Skip over column #7 (it should not fill the 7th column).
 
