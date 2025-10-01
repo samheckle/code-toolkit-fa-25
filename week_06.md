@@ -111,3 +111,21 @@ myArray.length // this is 3
 This counts the number of ***elements*** that exist inside the array.
 
 ---
+
+## Review Videos
+* [7.1 What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU)
+* [7.2 Arrays and loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
+
+## Review Documentation (these are textbook definitions)
+* [for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of) loops with arrays
+* [array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+## Demos
+
+* [loop review](https://editor.p5js.org/samheckle/sketches/sEpEy9iCH)
+    * reviewing syntax of `while` and `for`
+* [array intro](https://editor.p5js.org/samheckle/sketches/dujujZYUg)
+    * introducing `[]` and `.push()` and `.length`
+* [arrays and images](https://editor.p5js.org/samheckle/sketches/eNn_JV6w4)
+    * using `loadImage()` and `image()` function to display images
+    * looking at managing scenes / states with variables
