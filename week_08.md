@@ -14,6 +14,8 @@
 Any questions?
 Any other topics to review at this time?
 
+Write your questions in [this doc](https://cryptpad.fr/pad/#/2/pad/edit/k5-knCHsjrT-ctJe63mYU+4+/)
+
 ## Review: Arrays
 
 <table>
