@@ -158,3 +158,13 @@ To use sound in p5, we use the [p5 sound library](https://p5js.org/reference/p5.
 
 ## Review Documentation
 * [classes in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
+## Demos
+* Review demos in this [doc]([this doc](https://cryptpad.fr/pad/#/2/pad/edit/k5-knCHsjrT-ctJe63mYU+4+/)), with links to documentation
+* [text objects](https://editor.p5js.org/samheckle/sketches/O31V3igyu)
+  * using properties in objects with `.`
+  * declaring objects with `{}`
+* [classes and date](https://editor.p5js.org/samheckle/sketches/uN_Xrrnu3)
+  * using the JavaScript Date class, using keyword `new`
+* [sound files](https://editor.p5js.org/samheckle/sketches/nSnxnGwd1)
+  * introducing sound files as assets to go in the `preload()`
