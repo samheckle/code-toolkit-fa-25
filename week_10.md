@@ -13,7 +13,7 @@
 ## Housekeeping
 
 * attendance
-* talk by chia amisola tonight 10/29
+* [talk by chia amisola tonight 10/29](https://event.newschool.edu/cdlectureserieschiaamisola)
 * makeup session TBD: this will be on zoom and will be optional drop in hours. Either Week of Nov 10 or Nov 17
 
 ## Reading #3 Discussion
@@ -32,6 +32,8 @@
 Each note that exists from instruments is related to a specific frequency. For example, a [piano](https://en.wikipedia.org/wiki/Piano_key_frequencies) can be broken down by [this chart](https://upload.wikimedia.org/wikipedia/commons/a/ad/Piano_key_frequencies.png)
 
 What this means for us is that we can generate tones by using the basic frequency (in the hz units) and electronically mimic the sound waves coming from each place. 
+
+![sound waves](https://www.thedawstudio.com/wp-content/uploads/2016/08/Types_of_Soundwaves.jpg)
 
 We can mathematically create a scale by seeing what is the ratio between the note, the hz, and the ratio. 
 
@@ -119,6 +121,15 @@ Pair up with another group and give feedback!
 * Try sketching out alternative solutions. 
 
 ## Demos and Videos
+## Demos
+
+* [using microphone input + recording](https://github.com/samheckle/code-toolkit-fa-25/blob/main/mycoolproject/sketch.js)
+    * [live site](https://samheckle.github.io/code-toolkit-fa-25/mycoolproject/) hosted on github pages
+* [oscillators basic](https://editor.p5js.org/samheckle/sketches/ZdEQ8a6H2)
+    * creating oscillators using `p5.Oscillators`
+* [oscillators advanced](https://editor.p5js.org/samheckle/sketches/v5ikJpKIU)
+* [sound file rate](https://editor.p5js.org/samheckle/sketches/AHcHTCoFK)
+
 
 ### Videos
 * [17.1: Loading and Playing sound](https://youtu.be/Pn1g1wjxl_0?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
