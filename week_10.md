@@ -66,6 +66,10 @@ The frequency is determined by the note (see above table), and the waveform is t
 
 We can create microphone input using the `new p5.AudioIn()`. This uses the class syntax of `new` to create an instance of the AudioIn class, and we can assign that to a variable. 
 
+***Note: Some browsers hate this, so if you use Firefox or not Chrome, you might need to change the version of your p5 to 0.9.0 in `index.html`***
+
+
+
 ```js
 let mic = new p5.AudioIn()
 ```
