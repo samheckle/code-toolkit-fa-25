@@ -3,11 +3,11 @@
 ## Agenda
 
 1. [Housekeeping](#Housekeeping) 
-2. [Reading #3 Discussion](#Reading-#3-Discussion)
-3. Review: In-Class 7
-4. Tutorial: Generated Sound + Microphone
-5. Review: Project #3 Proposal
-6. Demos and Videos
+2. [Reading #3 Discussion](#reading-3-discussion)
+3. [Review: In-Class 7](#review-in-class-7)
+4. [Tutorial: Generated Sound + Microphone](#tutorial-generated-sound--microphone)
+5. [Review: Project #3 Proposal](#review-project-3-proposal)
+6. [Demos and Videos](#demos-and-videos)
 
 ## Housekeeping
 
@@ -81,4 +81,19 @@ mic.getLevel()
 
 ## Review: Project #3 Proposal
 
+Pair up with another group and give feedback!
+* Think about the observe-analyze-interpret-evaluate system. 
+* Try sketching out alternative solutions. 
+
 ## Demos and Videos
+
+### Videos
+* [17.1: Loading and Playing sound](https://youtu.be/Pn1g1wjxl_0?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.3: Timing, Jumps and Cues](https://youtu.be/SfA5CghXw18?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.4: Amplitude Analysis](https://youtu.be/NCCHQwNAN6Y?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.5: Adding Sound Effects - video tutorial](https://youtu.be/40Me1-yAtTc?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.6: Sound Synthesis - video tutorial](https://youtu.be/Bk8rLzzSink?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.8: Microphone Input](https://youtu.be/wUSva_BnedA?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.9: Sound Visualization: Graphing Amplitude](https://youtu.be/jEwAMgcCgOA?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.10: Sound Visualization: Radial Graph](https://youtu.be/h_aTgOl9J5I?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.11: Sound Visualization: Frequency Analysis with FFT](https://www.youtube.com/watch?v=2O3nm0Nvbi4&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=11)
