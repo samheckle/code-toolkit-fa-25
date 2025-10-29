@@ -6,13 +6,15 @@
 2. [Reading #3 Discussion](#reading-3-discussion)
 3. [Review: In-Class 7](#review-in-class-7)
 4. [Tutorial: Generated Sound + Microphone](#tutorial-generated-sound--microphone)
-5. [Review: Project #3 Proposal](#review-project-3-proposal)
-6. [Demos and Videos](#demos-and-videos)
+5. [Tutorial: The DOM and Web Hosting](#the-dom-and-web-hosting)
+6. [Review: Project #3 Proposal](#review-project-3-proposal)
+7. [Demos and Videos](#demos-and-videos)
 
 ## Housekeeping
 
 * attendance
 * talk by chia amisola tonight 10/29
+* makeup session TBD: this will be on zoom and will be optional drop in hours. Either Week of Nov 10 or Nov 17
 
 ## Reading #3 Discussion
 
@@ -78,6 +80,33 @@ We can measure the volume of the microphone using
 ```js
 mic.getLevel()
 ```
+
+## The Dom and Web Hosting
+
+### Hosting our p5 code on the web for free
+
+***These steps only need to be completed once.***
+
+1. Make an account on [github](https://github.com/). 
+2. Go to your profile and click repositories. 
+3. Click "new"
+4. Make a public repository. 
+    * This can be named whatever: it depends if you want to use it just for the class demo / individual projects OR for the entire class. I default to make repos for entire classes.
+    * A repository is like a folder in google drive. 
+5. After creating, go into the project settings and click the pages tab on the left. 
+6. Under the "Branch" section from the dropdown menu select "main" and push save. 
+7. After a few minutes, we have a site that is live. 
+    * We can check the status of the deployment under the "actions" tab. Once it is green, we can go to our site. 
+
+We can visit our sites by going to the link: `https://[your-github-username].github.io/[your-repository-name]/[your-folder-where-index.html-is]/`
+
+### Adding our p5 folder
+
+We can download our p5 folder from the web editor. This also means if we want, we can code p5 on our own computers. Usually I use [VSCodium](https://vscodium.com/), but any text editor would be fine (Sublime, Atomic, VSCode, Notepad++ are all popular text editors)
+
+Once we have our folder downloaded + extracted from zip, we need to rename it to something. Usually the name of the assignment is fine, but if you want to optimize the URL you can customize this name for that here. 
+
+Then, in github, you press + and "Upload Files" and drag and drop that folder. 
 
 ## Review: Project #3 Proposal
 
