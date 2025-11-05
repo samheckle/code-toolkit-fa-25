@@ -6,7 +6,7 @@
 2. [Reading #3 Discussion](#reading-3-discussion)
 3. [Review: In-Class 7](#review-in-class-7)
 4. [Tutorial: Generated Sound + Microphone](#tutorial-generated-sound--microphone)
-5. [Tutorial: The DOM and Web Hosting](#the-dom-and-web-hosting)
+5. [Tutorial: Web Hosting](#the-dom-and-web-hosting)
 6. [Review: Project #3 Proposal](#review-project-3-proposal)
 7. [Demos and Videos](#demos-and-videos)
 
@@ -87,7 +87,7 @@ We can measure the volume of the microphone using
 mic.getLevel()
 ```
 
-## The Dom and Web Hosting
+## Web Hosting
 
 ### Hosting our p5 code on the web for free
 
