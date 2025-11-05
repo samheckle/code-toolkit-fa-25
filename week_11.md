@@ -115,3 +115,17 @@ This enables us to programatically add items to the DOM using p5.js: https://p5j
 
 ### Misc Links
 * [Open Processing](https://openprocessing.org/sketch/create) for live collaboration (you and your group would all need an account)
+* [Making custom stamp borders in p5](https://lost-circuits.netlify.app/)
+
+### Demos
+* [webcam phone](https://editor.p5js.org/samheckle/sketches/UcMo_abOK)
+* [using p5 in the browser](https://github.com/samheckle/code-toolkit-fa-25/blob/main/week_11/sketch.js)
+  * embedding DOM elements with p5 using `createButton()`, `createSlider()`, `createCanvas()`
+  * introducing anonymous functions `() => {}`
+  * using styles in `.css` file
+    * how to style a slider: https://eathealthy365.com/styling-an-html-input-range-slider-the-definitive-guide/
+    * https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/::-webkit-slider-runnable-track
+  * [live demo](https://samheckle.github.io/code-toolkit-fa-25/week_11/)
+* [using instance mode](https://github.com/samheckle/code-toolkit-fa-25/blob/main/week_11_CRAZY/sketch.js)
+  * multiple canvas elements on a webpage ([docs](https://github.com/processing/p5.js/wiki/Global-and-instance-mode))
+  * [live demo](https://samheckle.github.io/code-toolkit-fa-25/week_11_CRAZY/)
