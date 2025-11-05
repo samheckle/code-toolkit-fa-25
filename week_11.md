@@ -112,3 +112,6 @@ This enables us to programatically add items to the DOM using p5.js: https://p5j
 ### Resources / Videos
 * Allison Parrish [Browser Controls](https://creative-coding.decontextualize.com/browser-controls/)
 * Coding Train [HTML/CSS/DOM Playlist](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX) (videos 8.1-8.16)
+
+### Misc Links
+* [Open Processing](https://openprocessing.org/sketch/create) for live collaboration (you and your group would all need an account)

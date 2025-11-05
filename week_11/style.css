@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+/* apply to all of our sliders */
+input[type="range"]{
+  -webkit-appearance: none;
+}
+input[type="range"]::-webkit-slider-runnable-track{
+  background: cyan;
+  height: 5px;
+  border: solid green;
+}
+input[type="range"]::-moz-range-track{
+  background: cyan;
+  height: 5px;
+  border: solid green 2px 2px;
+}
+
+button{
+  background: yellow;
+  border: dashed yellowgreen;
+}
+
+img{
+  width: 100px;
+}
