@@ -46,7 +46,3 @@ Some libraries I have used and like:
 * [p5 glitch](https://ffd8.github.io/p5.glitch//)
 * [Tone.js](https://tonejs.github.io/)
 * [p5 ascii](https://p5.textmode.art/)
-
-## Demos and Videos
-
-* Coding Train [Data & API Playlist](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
