@@ -46,3 +46,11 @@ Some libraries I have used and like:
 * [p5 glitch](https://ffd8.github.io/p5.glitch//)
 * [Tone.js](https://tonejs.github.io/)
 * [p5 ascii](https://p5.textmode.art/)
+
+## Demos and Videos
+
+### Demos
+* [using ml5 library + bodyPose model](https://editor.p5js.org/samheckle/sketches/4ltdX6uda)
+
+### Videos
+* [Coding Train ml5 playlist](https://www.youtube.com/watch?v=26uABexmOX4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
