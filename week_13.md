@@ -36,6 +36,41 @@ Going back to class 2, we talked about different types of variables. But, string
 
 Take this [starter code](https://editor.p5js.org/samheckle/sketches/UDghY0Ha1r), and we will work with manipulating the `.txt` file with our javascript.
 
+### JSON
+
+JSON (pronounced jay-son), is another type of file format used commonly to send data between clients and servers. 
+
+![data between client and server](https://kagi.com/proxy/OIP.5b9URi8HKSr9A9f-jvmxCQHaFM?c=3SgynE8ofVcfX71I7M3hSy7-8GsGNVaWMLYt1IFzJZWe-Af51hnWao5boloRrMRQWp0zt3nZ0TrRpU3qndK3MVnBwghYfckdGsgNikjryEM6-BH_VdsWux364VwLaz29)
+
+We can retrieve these files using an API (application programming interface), which is the way in which we can ask for and receive data. 
+
+The best way to do this in plain javascript is to use the [`fetch()` api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch). 
+
+### `fetch()`
+
+In this example, we will be using the [OMDB api](https://www.omdbapi.com/), which we generated the token for at the beginning of class. We need to construct the request with javascript.
+
+First, we need to say exactly what we are asking for in the request. We use JavaScript's native [URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams). This is in object format, which allows us to say what information we are giving, including our `token` that allows us to make the request.
+
+```js
+
+    const params = new URLSearchParams({
+        apikey: "your-api-key-from-email",
+        s: "movie-you-are-searching-for",
+        type: "movie"
+    })
+
+    const url = "http://www.omdbapi.com/?" + params
+```
+
+Then we need to construct the URL.
+
+```js
+    const url = "http://www.omdbapi.com/?" + params
+```
+
+Then we need to use `fetch()` with this 
+
 ### More Interesting data and tools
 * https://github.com/dariusk/corpora/
 * https://tinytools.directory/
