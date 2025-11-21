@@ -69,7 +69,12 @@ Then we need to construct the URL.
     const url = "http://www.omdbapi.com/?" + params
 ```
 
-Then we need to use `fetch()` with this 
+Then we need to use `fetch()` with this and convert it to `.json`
+```js
+const response = await fetch(url)
+const json = await response.json()
+```
+We must use the `await` keyword in order to ensure that the variable is populated before we move on.
 
 ### More Interesting data and tools
 * https://github.com/dariusk/corpora/
@@ -78,6 +83,14 @@ Then we need to use `fetch()` with this
 ## Project #5 Research
 
 ## Demos and Videos
+
+### Demos
+
+* [loading text from file](https://editor.p5js.org/samheckle/sketches/15egIjIsT)
+    * using p5 `loadStrings` to load `.txt` files
+    * using js native string methods: [`split()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+* [omdb api](https://editor.p5js.org/samheckle/sketches/9Ig65zRPK)
+    * using `fetch()` to retrieve information from external api
 
 * Coding Train [Data & API Playlist](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 
